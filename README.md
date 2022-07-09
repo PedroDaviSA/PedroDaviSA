@@ -1,4 +1,4 @@
-### Olá! Me chamo Pedro "Davídico" Davi
+### Olá! Me chamo Pedro Davi
 
 
 
