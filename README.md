@@ -2,8 +2,8 @@
 
 
 
-- Se especializando em frent-end
-- Estudante de ADS
+- Se especializando em frent-end e Banco de Dados
+- Formado em ADS
 
 <div align="center">
   <a href="https://github.com/pedrodavisa">
